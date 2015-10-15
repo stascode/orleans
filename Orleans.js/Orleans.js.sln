@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsgrain.host", "jsgrain.host\jsgrain.host.csproj", "{E067EECE-9D8E-46C3-AB55-A237F922B1FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsgrain.interfaces", "jsgrain.interfaces\jsgrain.interfaces.csproj", "{33F04E71-3E57-4FE0-BC67-2B70FE6EF9A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsgrain", "jsgrain\jsgrain.csproj", "{29F74E1C-D3A0-4667-9ABD-32D6BDA0681F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsgrain.frontend", "jsgrain.frontend\jsgrain.frontend.csproj", "{3BDD7FDF-C977-4378-95F5-EAE7C7B035E7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vstfpg03:8080/tfs/pg03
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = jsgrain.frontend\\jsgrain.frontend.csproj
+		SccProjectName1 = jsgrain.frontend
+		SccLocalPath1 = jsgrain.frontend
+		SccProjectUniqueName2 = jsgrain.host\\jsgrain.host.csproj
+		SccProjectName2 = jsgrain.host
+		SccLocalPath2 = jsgrain.host
+		SccProjectUniqueName3 = jsgrain.interfaces\\jsgrain.interfaces.csproj
+		SccProjectName3 = jsgrain.interfaces
+		SccLocalPath3 = jsgrain.interfaces
+		SccProjectUniqueName4 = jsgrain\\jsgrain.csproj
+		SccProjectName4 = jsgrain
+		SccLocalPath4 = jsgrain
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E067EECE-9D8E-46C3-AB55-A237F922B1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E067EECE-9D8E-46C3-AB55-A237F922B1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E067EECE-9D8E-46C3-AB55-A237F922B1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E067EECE-9D8E-46C3-AB55-A237F922B1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F04E71-3E57-4FE0-BC67-2B70FE6EF9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F04E71-3E57-4FE0-BC67-2B70FE6EF9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F04E71-3E57-4FE0-BC67-2B70FE6EF9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F04E71-3E57-4FE0-BC67-2B70FE6EF9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F74E1C-D3A0-4667-9ABD-32D6BDA0681F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F74E1C-D3A0-4667-9ABD-32D6BDA0681F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F74E1C-D3A0-4667-9ABD-32D6BDA0681F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F74E1C-D3A0-4667-9ABD-32D6BDA0681F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDD7FDF-C977-4378-95F5-EAE7C7B035E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDD7FDF-C977-4378-95F5-EAE7C7B035E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDD7FDF-C977-4378-95F5-EAE7C7B035E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDD7FDF-C977-4378-95F5-EAE7C7B035E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
